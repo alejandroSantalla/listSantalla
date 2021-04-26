@@ -1,10 +1,10 @@
 #EXTHM3U
 
-#EXTINF:-1tvg-id="https://images.app.goo.gl/3NaRtXQHQjvaqrMW6", Movistar Liga
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/3NaRtXQHQjvaqrMW6", Movistar Liga
 http://192.99.46.43:25461/Ultratoken/budTV/3232/1618.m3u8?rb
 
-#EXTINF:-1, laLiga
+#EXTINF:-1 tvg-logo= "https://images.app.goo.gl/YHx33ChG15F6zKhPA", laLiga
 http://172.106.167.186:128/budTV/3232/3060_.m3u8?rb
 
-#EXTINF:-1, Movistar Liga
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/3NaRtXQHQjvaqrMW6" , Movistar Liga
 http://209.205.221.74:128/budTV/3232/1623_.m3u8?rb
