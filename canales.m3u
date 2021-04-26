@@ -1,6 +1,6 @@
 #EXTHM3U
 
-#EXTINF:-1,tvg-id="https://images.app.goo.gl/3NaRtXQHQjvaqrMW6" Movistar Liga
+#EXTINF:-1tvg-id="https://images.app.goo.gl/3NaRtXQHQjvaqrMW6", Movistar Liga
 http://192.99.46.43:25461/Ultratoken/budTV/3232/1618.m3u8?rb
 
 #EXTINF:-1, laLiga
