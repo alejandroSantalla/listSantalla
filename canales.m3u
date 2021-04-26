@@ -8,3 +8,7 @@ http://172.106.167.186:128/budTV/3232/3060_.m3u8?rb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" , Movistar Liga
 http://209.205.221.74:128/budTV/3232/1623_.m3u8?rb
+
+#EXTINF:-1,[075] BLAZE
+
+rtp://@239.0.0.38:8208
