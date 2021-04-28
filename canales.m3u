@@ -12,4 +12,9 @@ http://209.205.221.74:128/budTV/3232/1623_.m3u8?rb
 #EXTINF:-1,  Movistar Champions
 http://209.205.221.74:128/budTV/3232/1615_.m3u8
 
+#EXTINF:-1, Movistar Champions
+https://bit.ly/3nvkTDt?thejoelc.m3u8
+
+#EXTINF:-1, Movistar
+
 rtp://@239.0.0.38:8208
