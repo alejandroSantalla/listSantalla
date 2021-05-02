@@ -5,3 +5,6 @@ http://192.99.46.43:25461/Budtv3201/R3$3202/3R1W3$32/1618.m3u8?rb
 
 #EXTINF:-1 tvg-logo= "https://assets.laliga.com/assets/logos/laliga-h/laliga-h-300x300.jpg", laLiga
 http://mag.id.iptv.uno/live/SC123456789/u4Psax342/28330.m3u8?rb
+
+EXTINF:-1 tvg-logo= "https://assets.laliga.com/assets/logos/laliga-h/laliga-h-300x300.jpg", laLiga
+http://31.220.41.87:8081/live/bein-laliga.stream/playlist.m3u8
